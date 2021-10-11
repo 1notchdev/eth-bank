@@ -1,3 +1,6 @@
-# eth-bank
-Smart contract for eth bank project
-I am Awesome.
+
+# Ethereum Bank
+This project is open to everybody.
+
+## Contributers
+### Add yourself with wallet address
