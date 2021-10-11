@@ -1,6 +1,4 @@
-# eth-bank
-Smart contract for eth bank project.
-
+# Ethereum Bank
 This project is open to everybody.
 
 ## Contributers
